@@ -77,7 +77,7 @@ You are continuing work from a previous chat. That chat is gone; this file is th
 | Decision | Why |
 |---|---|
 | 호스트네임: SC-HQ-R1, SC-BR-R1, SC-SW-RND/QA/TS/ADM/SRV/TSBR | 사용자 확정, 적용 완료 |
-| 전 장비 비밀번호(enable secret/console/vty) 통일: `Safecore1!` | 실습용 |
+| 전 장비 비밀번호(enable secret/console/vty) 통일: `<실습용 비밀번호>` | 실습용 |
 | 3일차 범위에 텔넷 설정 포함 | 사용자 요청 |
 | WAN 대역 192.168.70.0/24(VLAN 70) | 기존 체계 통일 |
 | 명령어 로그는 `3일차_명령어_로그.md`에 계속 기록, 매번 바로바로 저장 | 사용자 요청, 두 번 재확인됨 — 메모리에도 등록 완료 |
@@ -160,7 +160,7 @@ You are continuing work from a previous chat. That chat is gone; this file is th
 | SC-SW-SRV | 192.168.50.254 | 192.168.50.1 |
 | SC-SW-TSBR | 192.168.60.254 | 192.168.60.1 |
 
-**비밀번호/계정**: enable secret / console / vty 전부 `Safecore1!` (실습용)
+**비밀번호/계정**: enable secret / console / vty 전부 `<실습용 비밀번호>` (실습용)
 
 **본사 라우터 모듈 구성 (ISR4331)**
 - NIM 1 슬롯: NIM-ES2-4 (사용 중, Gi0/1/0~3) — 건드리지 않음
