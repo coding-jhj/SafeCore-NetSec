@@ -1,6 +1,6 @@
 # CLAUDE.md - SafeCore-NetSec working guide
 
-Personal portfolio project (Cisco Packet Tracer). The user attends a network class; each class day the instructor gives a daily work plan (작업 계획서) written for the instructor's own topology. The job is to re-map that plan onto THIS SafeCore topology and execute it step by step with the user. Read this whole file before the first reply of a session.
+Personal portfolio project (Cisco Packet Tracer). User-facing restart steps (Korean) are in `작업_이어하기_가이드.md`. The user attends a network class; each class day the instructor gives a daily work plan (작업 계획서) written for the instructor's own topology. The job is to re-map that plan onto THIS SafeCore topology and execute it step by step with the user. Read this whole file before the first reply of a session.
 
 ## 1. Daily procedure (day N)
 
